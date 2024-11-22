@@ -52,8 +52,6 @@ A user-friendly design in a booking system is crucial for several reasons:
 - **Customer Satisfaction:** A positive user experience fosters customer loyalty and encourages repeat bookings, as users are more likely to return to a platform that they find easy and enjoyable to use.
 - **Accessibility:** A user-friendly design ensures that the platform is accessible to a wider audience, including those with disabilities.
 
-Sure, here's the updated README.md file with the "Project Roles and Responsibilities" section:
-
 ## Project Roles and Responsibilities
 
 To ensure the successful delivery of the AirBnB Clone project, the following roles and their respective responsibilities have been defined:
