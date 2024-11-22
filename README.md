@@ -52,3 +52,64 @@ A user-friendly design in a booking system is crucial for several reasons:
 - **Customer Satisfaction:** A positive user experience fosters customer loyalty and encourages repeat bookings, as users are more likely to return to a platform that they find easy and enjoyable to use.
 - **Accessibility:** A user-friendly design ensures that the platform is accessible to a wider audience, including those with disabilities.
 
+Sure, here's the updated README.md file with the "Project Roles and Responsibilities" section:
+
+## Project Roles and Responsibilities
+
+To ensure the successful delivery of the AirBnB Clone project, the following roles and their respective responsibilities have been defined:
+
+### Project Manager
+- Oversees the overall project planning, execution, and delivery
+- Manages the project timeline, budget, and resources
+- Coordinates and communicates with the cross-functional team
+- Identifies and mitigates risks and issues
+- Ensures the project aligns with the business objectives
+
+### Product Owner
+- Defines the product vision and roadmap
+- Prioritizes the product backlog and features
+- Collaborates with the team to refine and clarify requirements
+- Represents the customer's needs and interests
+- Validates the deliverables and provides feedback
+
+### Scrum Master
+- Facilitates the Agile ceremonies and processes
+- Removes impediments and roadblocks for the team
+- Promotes Agile principles and best practices
+- Coaches the team on Agile methodologies
+- Ensures the team is working efficiently and effectively
+
+### Frontend Developers
+- Implement the user interface and user experience
+- Develop responsive and accessible web pages
+- Integrate with the backend API to fetch and display data
+- Optimize the front-end performance and user interactions
+- Collaborate with designers to ensure pixel-perfect implementation
+
+### Backend Developers
+- Design and develop the server-side logic and APIs
+- Implement the core functionality and business rules
+- Ensure data integrity and security
+- Integrate with third-party services and systems
+- Optimize the backend performance and scalability
+
+### Designers
+- Create the overall visual design and branding
+- Develop the user interface and user experience
+- Conduct user research and usability testing
+- Collaborate with the development team to ensure design implementation
+- Iterate on the design based on user feedback and requirements
+
+### QA/Testers
+- Develop and execute comprehensive test plans
+- Identify and report bugs and defects
+- Perform functional, integration, and end-to-end testing
+- Ensure the application meets the defined acceptance criteria
+- Collaborate with the development team to resolve issues
+
+### DevOps Engineers
+- Set up the continuous integration and deployment pipelines
+- Manage the infrastructure and cloud-based environments
+- Implement monitoring and logging solutions
+- Ensure the application's scalability, reliability, and security
+- Provide support and troubleshooting for the production environment
