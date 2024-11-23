@@ -111,3 +111,27 @@ To ensure the successful delivery of the AirBnB Clone project, the following rol
 - Implement monitoring and logging solutions
 - Ensure the application's scalability, reliability, and security
 - Provide support and troubleshooting for the production environment
+
+
+## UI Component Patterns
+
+#### 1. Navbar
+- **Description**: The Navbar will serve as the primary navigation element for the application. It will include links to key pages such as Home, Properties, About, and Contact. Additionally, it will feature a search bar for users to quickly find properties.
+- **Features**:
+  - Responsive design for mobile and desktop views
+  - Dropdown menus for user account options
+  - Logo and branding
+
+#### 2. Property Card
+- **Description**: The Property Card will display individual property listings. Each card will showcase a property’s image, title, price, and a brief description. This component will be used on the main listing page and in search results.
+- **Features**:
+  - Image carousel for multiple property images
+  - Quick view button for more details
+  - Ratings and reviews summary
+
+#### 3. Footer
+- **Description**: The Footer will provide additional navigation and information links at the bottom of the page. It will include links to privacy policy, terms of service, and social media accounts.
+- **Features**:
+  - Contact information
+  - Newsletter signup form
+  - Sitemap links for easy navigation
